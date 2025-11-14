@@ -1,0 +1,33 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #f0f9f4;
+}
+
+.navbar {
+    background-color: #4CAF50;
+}
+
+h2 {
+    color: #4CAF50;
+    font-weight: bold;
+}
+
+.card {
+    border: none;
+    border-radius: 10px;
+}
+
+#formCerita .form-control {
+    border-radius: 10px;
+}
+
+#cerita, #informasi, #afirmasi {
+    padding: 20px;
+    margin-bottom: 40px;
+}
+
+#afirmasiContent {
+    background-color: #e8f5e9;
+    text-align: center;
+    border-radius: 15px;
+}
